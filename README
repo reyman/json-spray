@@ -1,3 +1,7 @@
+Pour copier le projet : 
+
+git clone https://github.com/reyman/json-spray.git
+
 Pour lancer le projet : 
 sbt 
 > run
